@@ -23,4 +23,4 @@
 
 ### Brian's Bio
 
-Brian Plummer is a Senior Android developer at Nike’s s23NYC and has been developing android applications for over 8 years. He is passionate about Android and making applications amazing.
+I've been passionate about making Android applications amazing for over 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab.
