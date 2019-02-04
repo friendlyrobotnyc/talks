@@ -1,0 +1,69 @@
+//DONE
+2) cut trigger rebirth out of gif...just show sf coming up
+//DONE
+7) start with inspection...modify image....use chrome json viewer..make as background...
+
+//DONE
+12) pull sample from friendly demo of sqldelight 
+
+https://github.com/friendlyrobotnyc/BoxBee/blob/93a36fb2b3fba66226202a4a60b2cd3a508ed1e8/BoxBeeApp/app/src/main/java/com/friendlyrobot/boxbee/api/entities/route/Address.java
+
+https://github.com/friendlyrobotnyc/BoxBee/blob/93a36fb2b3fba66226202a4a60b2cd3a508ed1e8/BoxBeeApp/app/src/main/java/com/friendlyrobot/boxbee/interaction/SeedAction.java
+
+https://github.com/friendlyrobotnyc/BoxBee/blob/93a36fb2b3fba66226202a4a60b2cd3a508ed1e8/BoxBeeApp/app/src/main/sqldelight/com/friendlyrobot/boxbee/api/entities/route/Address.sq
+
+three images...top left address.java, bottom left is seed action...right is sq....images
+
+//DONE
+13) remove sf reference
+
+//DONE
+14) need image of overwhelmed
+
+//DONE
+16) too wordy
+
+17) split into three slides
+
+25) convert to gif?? undecided
+
+38) show video of me using igraphql
+
+39) add video, to show graphqlI doc viewer
+
+40) go to three slides first showing origin query, hightlight to change, then show fragment query
+
+41) get screen shot in AS of query/schema location in tree
+
+43) potentially highlight 
+
+49) handleREsponse andhandleError
+
+50) optional configuration...show optional output and compare to nullabe previously
+
+51) needs image, something caching related ~funny
+
+52) needs example
+
+53) code sample of prefetching .pretech()
+
+56) needs code sample of query watch...watcher()
+
+57) minor love
+
+58) mutation example
+
+59) optimistic updates -> figure it out...????
+
+60) insert trans between 59 and 60
+
+figure out garbage at the end
+
+
+
+
+
+
+
+
+
