@@ -14,9 +14,9 @@
 * [Improving Startup Time in the NYTimes Android App](https://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-android-app/)
 * [Store Grand Opening — Wrangling Android Data Loading and Caching](https://open.blogs.nytimes.com/2017/01/13/store-grand-opening-wrangling-android-data-loading-and-caching/)
 
-
 ### Mike's Talks
 
+* [2016 July Android Camp NYC UN](https://www.youtube.com/watch?v=X1JzdMbVu94) intro to dagger
 * [2016 July 360 AnDev Denver](https://www.youtube.com/watch?v=_neAwAv9JzY) swordfighting with dagger
 * [2017 April Paris Android Makers](https://www.youtube.com/watch?v=G1MebI2k9aA) load and cache data without even trying
 * [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
@@ -25,6 +25,8 @@
 ### Mike's Bio
 
 Google Developer Expert in Android and the Android Lead at Nike's s23NYC.  I'm a regular blogger and speaker, last few include android makers and devfest nyc.   I'm a co founder of friendlyrobot.nyc.  I write for my personal blog and was recently on Tech Beacons top 40 android devs to follow on twitter. I also maintain a few open source projects. Come find me, always happy to talk android.
+
+-------------------------------------------------------------------------------------------------------------------
 
 ### Brian's Articles
 
