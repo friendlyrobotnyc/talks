@@ -7,6 +7,8 @@
 
 ### Mike's Bio
 
+Google Developer Expert in Android and the Android Lead at Nike's s23NYC.  I'm a regular blogger and speaker, last few include android makers and devfest nyc.   I'm a co founder of friendlyrobot.nyc.  I write for my personal blog and was recently on Tech Beacons top 40 android devs to follow on twitter. I also maintain a few open source projects. Come find me, always happy to talk android.
+
 ### Brian's Talks
 
 * 2015 July 15 NY Android meetup @soundcloud https://www.meetup.com/nyandroiddevelopers/events/223745971/ rgb_565 
