@@ -22,7 +22,7 @@ Google Developer Expert in Android and the Android Lead at Nike's s23NYC.  I'm a
 * [2018 June 12 NY Android meetup @facebook](https://www.meetup.com/nyandroiddevelopers/events/251240757/) nytimes store
 * [2018 July 25 GDG Berlin Android meetup](https://www.meetup.com/GDG-Berlin-Android/events/fvvctlyxkbhc/) graphQL
 * [2019 Jan 23 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/257755480/) selling kotlin to management 
-* [2019 Feb 13 NY Kotlin meetup @Capital One Labs](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/)
+* [2019 Feb 13 NY Kotlin meetup @Capital One Labs](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/) moshi code gen
 
 ### Brian's Bio
 
