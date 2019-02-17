@@ -16,8 +16,11 @@
 
 ### Mike's Talks
 
+* [2015 Feb](https://www.slideshare.net/nakhimovich/intro-to-functional-programming-with-rxjava) programming with rxjava
+* [2016 Jan GDG NYC](https://www.slideshare.net/nakhimovich/sword-fighting-with-dagger-gdgnyc-jan-2016) swordfighting with dagger
 * [2016 July Android Camp NYC UN](https://www.youtube.com/watch?v=X1JzdMbVu94) intro to dagger
 * [2016 July 360 AnDev Denver](https://www.youtube.com/watch?v=_neAwAv9JzY) swordfighting with dagger
+* [2017 Jan GDG NYC](https://www.slideshare.net/nakhimovich/open-sourcing-the-store) open sourcing the store
 * [2017 April Paris Android Makers](https://www.youtube.com/watch?v=G1MebI2k9aA) load and cache data without even trying
 * [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
 * [2018 April Droidcon Italy](https://www.youtube.com/watch?v=kmw5dXo3QcQ) dispatcher
