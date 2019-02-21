@@ -24,6 +24,8 @@
 * [2017 April Paris Android Makers](https://www.youtube.com/watch?v=G1MebI2k9aA) load and cache data without even trying
 * [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
 * [2018 April Droidcon Italy](https://www.youtube.com/watch?v=kmw5dXo3QcQ) dispatcher
+* [Android Meetup NYC](https://www.meetup.com/nyandroiddevelopers/events/258500206/) Coroutines -  You owe it to yourself
+
 
 ### Mike's Bio
 
