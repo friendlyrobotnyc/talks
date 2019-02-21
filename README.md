@@ -22,14 +22,15 @@
 * [2016 July 360 AnDev Denver](https://www.youtube.com/watch?v=_neAwAv9JzY) swordfighting with dagger
 * [2017 Jan GDG NYC](https://www.slideshare.net/nakhimovich/open-sourcing-the-store) open sourcing the store
 * [2017 April Paris Android Makers](https://www.youtube.com/watch?v=G1MebI2k9aA) load and cache data without even trying
+* [2017 April Droidcon Italy](https://www.youtube.com/watch?v=TvsOsgd0--c) load and cache data without even trying
 * [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
 * [2018 April Droidcon Italy](https://www.youtube.com/watch?v=kmw5dXo3QcQ) dispatcher
-* [Android Meetup NYC](https://www.meetup.com/nyandroiddevelopers/events/258500206/) Coroutines -  You owe it to yourself
+* [2019 February Android Meetup NYC](https://www.meetup.com/nyandroiddevelopers/events/258500206/) Coroutines -  You owe it to yourself
 
 
 ### Mike's Bio
 
-Google Developer Expert in Android and the Android Lead at Nike's s23NYC.  I'm a regular blogger and speaker, last few include android makers and devfest nyc.   I'm a co founder of friendlyrobot.nyc.  I write for my personal blog and was recently on Tech Beacons top 40 android devs to follow on twitter. I also maintain a few open source projects. Come find me, always happy to talk android.
+Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prior he was an Android Architect at the New York Times focused on app performance and functional reactive architectures. Mike started his Android career several years ago making warehouse logistics software which dealt with external sensors/barcode readers. He then did a stint at TouchLab, an Android consulting form, before (briefly) chasing the equity dream at Betterment. Mike is the co-founder of FriendlyRobot.nyc, an Android development shop in New York City. He enjoys speaking about Android at conferences, writing for tech blogs, and maintaining open source libraries
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -54,4 +55,4 @@ Google Developer Expert in Android and the Android Lead at Nike's s23NYC.  I'm a
 
 ### Brian's Bio
 
-I've been passionate about making Android applications amazing for over 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab.
+I've been passionate about making Android applications amazing for over 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab. 
