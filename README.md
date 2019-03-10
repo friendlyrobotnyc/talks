@@ -1,5 +1,6 @@
 ### Mike's Articles
 
+* [Dagger Component Dependencies for Library Development](https://medium.com/@theMikhail/dagger-component-dependencies-for-library-development-e2df7ce68233)
 * [Room with a View](https://medium.com/s23nyc-tech/room-with-a-view-8cc759b312cb)
 * [Store+Room — A Reactive Repository](https://medium.com/s23nyc-tech/storeroom-a8d6391bccb7)
 * [MVP & Lifecycles & Dispatchers Oh My!](https://medium.com/s23nyc-tech/mvp-lifecycles-dispatchers-oh-my-19eda37a1a52)
@@ -13,7 +14,7 @@
 * [Pushing the Limits of App Startup Time](http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html)
 * [Improving Startup Time in the NYTimes Android App](https://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-android-app/)
 * [Store Grand Opening — Wrangling Android Data Loading and Caching](https://open.blogs.nytimes.com/2017/01/13/store-grand-opening-wrangling-android-data-loading-and-caching/)
-* [Dagger Component Dependencies for Library Development](https://medium.com/@theMikhail/dagger-component-dependencies-for-library-development-e2df7ce68233)
+
 
 
 ### Mike's Talks
