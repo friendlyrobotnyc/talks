@@ -13,6 +13,8 @@
 * [Pushing the Limits of App Startup Time](http://blog.nimbledroid.com/2016/04/20/pushing-limits-of-app-startup-time.html)
 * [Improving Startup Time in the NYTimes Android App](https://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-android-app/)
 * [Store Grand Opening — Wrangling Android Data Loading and Caching](https://open.blogs.nytimes.com/2017/01/13/store-grand-opening-wrangling-android-data-loading-and-caching/)
+* [Dagger Component Dependencies for Library Development](https://medium.com/@theMikhail/dagger-component-dependencies-for-library-development-e2df7ce68233)
+
 
 ### Mike's Talks
 
