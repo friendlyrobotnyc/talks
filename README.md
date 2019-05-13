@@ -55,7 +55,7 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 * [2018 July 25 GDG Berlin Android meetup](https://www.meetup.com/GDG-Berlin-Android/events/fvvctlyxkbhc/) graphQL
 * [2019 Jan 23 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/257755480/) selling kotlin to management 
 * [2019 Feb 13 NY Kotlin meetup @Capital One Labs](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/) moshi code gen
-* [2019 Apr 24 Android Makers France](https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review) code review
+* [2019 Apr 24 Android Makers France](https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review) [code review] (https://www.youtube.com/watch?v=iQEZQ4AYGIg)
 
 ### Brian's Bio
 
