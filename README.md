@@ -59,4 +59,4 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 
 ### Brian's Bio
 
-I've been passionate about making Android applications amazing for over 8 years. I started working on Android for TouchLab then the The New York Times, and am currently at Nike's s23NYC innovation lab. 
+ Brian has been passionate about making Android applications amazing for almost 9 years.  He started his Android career working for TouchLab, then The New York Times, followed by Nike's s23NYC innovation lab. Brian is the co-founder of FriendlyRobot.nyc, an Android development shop in New York City. He enjoys speaking about Android at conferences and meetups. He also enjoys reading about astronomy, sleeping in the woods, tending to his plant herd, and flipping logs to find critters.
