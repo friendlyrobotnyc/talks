@@ -53,8 +53,8 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 * [2017 Dec 3 Devfest GDG NYC](https://devfestnyc.com/schedule/day2) Kotlin Workshop
 * [2018 June 12 NY Android meetup @facebook](https://www.meetup.com/nyandroiddevelopers/events/251240757/) graphQL
 * [2018 July 25 GDG Berlin Android meetup](https://www.meetup.com/GDG-Berlin-Android/events/fvvctlyxkbhc/) graphQL
-* [2019 Jan 23 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/257755480/) selling kotlin to management 
-* 2019 Feb 13 NY Kotlin meetup @Capital One Labs moshi code gen ([Slides](https://speakerdeck.com/brianplummer/moshis-kotlin-codegen)/[Meetup](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/)) moshi code gen
+* 2019 Jan 23 NY Android meetup @spotify selling kotlin to management ([Slides](https://speakerdeck.com/brianplummer/selling-kotlin-to-management)/[Meetup](https://www.meetup.com/nyandroiddevelopers/events/257755480/))
+* 2019 Feb 13 NY Kotlin meetup @Capital One Labs moshi code gen ([Slides](https://speakerdeck.com/brianplummer/moshis-kotlin-codegen)/[Meetup](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/)) 
 * 2019 Apr 24 Android Makers France, code review ([Video](https://www.youtube.com/watch?v=iQEZQ4AYGIg)/[Slides](https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review))
 
 ### Brian's Bio
