@@ -44,7 +44,7 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 ### Brian's Talks
 
 * [2015 July 15 NY Android meetup @soundcloud](https://www.meetup.com/nyandroiddevelopers/events/223745971/) rgb_565 
-* [2016 June 14 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/230899062/comments/466570096/) immutables
+* 2016 June 14 NY Android meetup @spotify immutability with immutables ([Slides](https://speakerdeck.com/brianplummer/immutability-with-immutables)/[Meetup](https://www.meetup.com/nyandroiddevelopers/events/230899062/comments/466570096/))
 * [2016 Nov 20 Devfest GDG NYC](https://www.meetup.com/gdgnyc/events/235192312/) Android best practices 
 * [2017 June 21 NY Kotlin meetup @touchlab](https://www.meetup.com/New-York-Kotlin-Meetup/events/240613564/) selling kotlin to management
 * [2017 Sept Droidcon Berlin](https://www.youtube.com/watch?v=BGtRhqmZ1SE) nytimes store 
