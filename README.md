@@ -44,19 +44,19 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 ### Brian's Talks
 
 * [2015 July 15 NY Android meetup @soundcloud](https://www.meetup.com/nyandroiddevelopers/events/223745971/) rgb_565 
-* 2016 June 14 NY Android meetup @spotify immutability with immutables ([Slides](https://speakerdeck.com/brianplummer/immutability-with-immutables)/[Meetup](https://www.meetup.com/nyandroiddevelopers/events/230899062/comments/466570096/))
+* [2016 June 14 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/230899062/comments/466570096/)  **Immutability with Immutables** ([Slides](https://speakerdeck.com/brianplummer/immutability-with-immutables))
 * [2016 Nov 20 Devfest GDG NYC](https://www.meetup.com/gdgnyc/events/235192312/) Android best practices 
 * [2017 June 21 NY Kotlin meetup @touchlab](https://www.meetup.com/New-York-Kotlin-Meetup/events/240613564/) selling kotlin to management
-* [2017 Sept Droidcon Berlin](https://www.youtube.com/watch?v=BGtRhqmZ1SE) nytimes store 
-* [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
-* [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=HVFJiD9lqvc) nytimes store
+* [2017 Sept Droidcon Berlin](https://berlin2017.droidcon.cod.newthinking.net/en/sessions/how-cache-and-load-data-without-even-trying) **NYT Store Library** ([Video](https://www.youtube.com/watch?v=BGtRhqmZ1SE))
+* [2017 Sept Droidcon NYC](https://twitter.com/droidconNYC/status/908008614534754305) **Intro to GraphQL on Android with Apollo** ([Video](https://www.youtube.com/watch?v=ugUFKB1LsNE)/[Slides](https://www.slideshare.net/nakhimovich/intro-to-graphql-on-android-with-apollo-droidconnyc-2017))
+* 2017 Sept Droidcon NYC **NYT Store Library** ([Vide](https://www.youtube.com/watch?v=HVFJiD9lqvc))
 * [2017 Dec 3 Devfest GDG NYC](https://devfestnyc.com/schedule/day2) Kotlin Workshop
 * [2018 June 12 NY Android meetup @facebook](https://www.meetup.com/nyandroiddevelopers/events/251240757/) graphQL
 * [2018 July 25 GDG Berlin Android meetup](https://www.meetup.com/GDG-Berlin-Android/events/fvvctlyxkbhc/) graphQL
-* 2019 Jan 23 NY Android meetup @spotify selling kotlin to management ([Slides](https://speakerdeck.com/brianplummer/selling-kotlin-to-management)/[Meetup](https://www.meetup.com/nyandroiddevelopers/events/257755480/))
-* 2019 Feb 13 NY Kotlin meetup @Capital One Labs moshi code gen ([Slides](https://speakerdeck.com/brianplummer/moshis-kotlin-codegen)/[Meetup](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/)) 
-* 2019 Apr 24 Android Makers France, code review ([Video](https://www.youtube.com/watch?v=iQEZQ4AYGIg)/[Slides](https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review))
+* [2019 Jan 23 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/257755480/) **Selling Kotlin to Management** ([Slides](https://speakerdeck.com/brianplummer/selling-kotlin-to-management))
+* [2019 Feb 13 NY Kotlin meetup @Capital One Labs](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/) **Moshi Code Gen** ([Slides](https://speakerdeck.com/brianplummer/moshis-kotlin-codegen)) 
+* [2019 Apr 24 Android Makers France](https://androidmakers.fr/schedule/2019-04-24?sessionId=TGV-6847), **Code Review** ([Video](https://www.youtube.com/watch?v=iQEZQ4AYGIg)/[Slides](https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review))
 
-### Brian's Bio
+### Brian's Bio ([Twitter](https://twitter.com/plummermakes)/[LinkedIn](https://www.linkedin.com/in/brian-plummer-a566822/))
 
 Brian has been passionate about making Android applications amazing for almost 9 years. He started his Android career working for TouchLab, then The New York Times, followed by Nike's s23NYC innovation lab, and is currently at Kiva. Brian is the co-founder of FriendlyRobot.nyc, an Android development shop in New York City. He enjoys speaking about Android at conferences and meetups. He also enjoys reading about astronomy, sleeping in the woods, tending to his plant herd, and flipping logs to find critters.
