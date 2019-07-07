@@ -47,9 +47,9 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 * [2016 June 14 NY Android meetup @spotify](https://www.meetup.com/nyandroiddevelopers/events/230899062/comments/466570096/)  - *Immutability with Immutables* ([Slides](https://speakerdeck.com/brianplummer/immutability-with-immutables))
 * [2016 Nov 20 Devfest GDG NYC](https://www.meetup.com/gdgnyc/events/235192312/) - _Android Best Practices_ 
 * [2017 June 21 NY Kotlin meetup @touchlab](https://www.meetup.com/New-York-Kotlin-Meetup/events/240613564/) - *Selling Kotlin to Management* ([Slides](https://speakerdeck.com/brianplummer/selling-kotlin-to-management))
-* [2017 Sept Droidcon Berlin](https://berlin2017.droidcon.cod.newthinking.net/en/sessions/how-cache-and-load-data-without-even-trying) - *How To Cache and Load Data Without Even Trying* ([Video](https://www.youtube.com/watch?v=BGtRhqmZ1SE))
-* [2017 Sept Droidcon NYC](https://twitter.com/droidconNYC/status/908008614534754305) - *Intro to GraphQL on Android with Apollo* ([Video](https://www.youtube.com/watch?v=ugUFKB1LsNE)/[Slides](https://www.slideshare.net/nakhimovich/intro-to-graphql-on-android-with-apollo-droidconnyc-2017))
-* 2017 Sept Droidcon NYC - *How To Cache and Load Data Without Even Trying* ([Video](https://www.youtube.com/watch?v=HVFJiD9lqvc))
+* [2017 Sept 5 Droidcon Berlin](https://berlin2017.droidcon.cod.newthinking.net/en/sessions/how-cache-and-load-data-without-even-trying) - *How To Cache and Load Data Without Even Trying* ([Video](https://www.youtube.com/watch?v=BGtRhqmZ1SE))
+* [2017 Sept 25 Droidcon NYC](https://twitter.com/droidconNYC/status/908008614534754305) - *Intro to GraphQL on Android with Apollo* ([Video](https://www.youtube.com/watch?v=ugUFKB1LsNE)/[Slides](https://www.slideshare.net/nakhimovich/intro-to-graphql-on-android-with-apollo-droidconnyc-2017))
+* 2017 Sept 26 Droidcon NYC - *How To Cache and Load Data Without Even Trying* ([Video](https://www.youtube.com/watch?v=HVFJiD9lqvc))
 * [2017 Dec 3 Devfest GDG NYC](https://devfestnyc.com/schedule/day2) - *Kotlin Workshop*
 * [2018 June 12 NY Android meetup @facebook](https://www.meetup.com/nyandroiddevelopers/events/251240757/) - *Intro to GraphQL on Android with Apollo*
 * [2018 July 25 GDG Berlin Android meetup](https://www.meetup.com/GDG-Berlin-Android/events/fvvctlyxkbhc/) - *Intro to GraphQL on Android with Apollo*
