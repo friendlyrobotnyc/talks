@@ -15,23 +15,22 @@
 * [Improving Startup Time in the NYTimes Android App](https://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-android-app/)
 * [Store Grand Opening — Wrangling Android Data Loading and Caching](https://open.blogs.nytimes.com/2017/01/13/store-grand-opening-wrangling-android-data-loading-and-caching/)
 
-
-
 ### Mike's Talks
 
-* [2015 Feb](https://www.slideshare.net/nakhimovich/intro-to-functional-programming-with-rxjava) programming with rxjava
-* [2016 Jan GDG NYC](https://www.slideshare.net/nakhimovich/sword-fighting-with-dagger-gdgnyc-jan-2016) swordfighting with dagger
-* [2016 July Android Camp NYC UN](https://www.youtube.com/watch?v=X1JzdMbVu94) intro to dagger
-* [2016 July 360 AnDev Denver](https://www.youtube.com/watch?v=_neAwAv9JzY) swordfighting with dagger
-* [2017 Jan GDG NYC](https://www.slideshare.net/nakhimovich/open-sourcing-the-store) open sourcing the store
-* [2017 April Paris Android Makers](https://www.youtube.com/watch?v=G1MebI2k9aA) load and cache data without even trying
-* [2017 April Droidcon Italy](https://www.youtube.com/watch?v=TvsOsgd0--c) load and cache data without even trying
-* [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
-* [2018 April Droidcon Italy](https://www.youtube.com/watch?v=kmw5dXo3QcQ) dispatcher
 * [2019 February Android Meetup NYC](https://www.meetup.com/nyandroiddevelopers/events/258500206/) Coroutines -  You owe it to yourself
+* [2018 April Droidcon Italy](https://www.youtube.com/watch?v=kmw5dXo3QcQ) dispatcher
+* [2017 Sept Droidcon NYC](https://www.youtube.com/watch?v=ugUFKB1LsNE) graphQL
+* [2017 April Droidcon Italy](https://www.youtube.com/watch?v=TvsOsgd0--c) load and cache data without even trying
+* [2017 April Paris Android Makers](https://www.youtube.com/watch?v=G1MebI2k9aA) load and cache data without even trying
+* [2017 Jan GDG NYC](https://www.slideshare.net/nakhimovich/open-sourcing-the-store) open sourcing the store
+* [2016 July 360 AnDev Denver](https://www.youtube.com/watch?v=_neAwAv9JzY) swordfighting with dagger
+* [2016 July Android Camp NYC UN](https://www.youtube.com/watch?v=X1JzdMbVu94) intro to dagger
+* [2016 Jan GDG NYC](https://www.slideshare.net/nakhimovich/sword-fighting-with-dagger-gdgnyc-jan-2016) swordfighting with dagger
+* [2015 Feb](https://www.slideshare.net/nakhimovich/intro-to-functional-programming-with-rxjava) programming with rxjava
 
 
 ### Mike's Bio
+#### ([Twitter](https://twitter.com/friendlyMikhail)/[LinkedIn](https://www.linkedin.com/in/mikenakh/)/[SlideShare](https://www.slideshare.net/nakhimovich/))
 
 Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prior he was an Android Architect at the New York Times focused on app performance and functional reactive architectures. Mike started his Android career several years ago making warehouse logistics software which dealt with external sensors/barcode readers. He then did a stint at TouchLab, an Android consulting form, before (briefly) chasing the equity dream at Betterment. Mike is the co-founder of FriendlyRobot.nyc, an Android development shop in New York City. He enjoys speaking about Android at conferences, writing for tech blogs, and maintaining open source libraries
 
