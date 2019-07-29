@@ -17,6 +17,10 @@
 
 ### Mike's Talks
 
+*Upcoming*
+
+[2019 Nov 8 Oredev Sweden](https://oredev.org/line-up/mike-nakhimovich) - *Coroutines - You owe it to yourself and Open source is not an accident*
+
 * [2019 February Android Meetup NYC](https://www.meetup.com/nyandroiddevelopers/events/258500206/) - *Coroutines -  You owe it to yourself*
 * 2018 April Droidcon Italy - *Dispatcher* ([Video](https://www.youtube.com/watch?v=kmw5dXo3QcQ))
 * 2017 Sept Droidcon NYC - *GraphQL* ([Video](https://www.youtube.com/watch?v=ugUFKB1LsNE))
@@ -41,6 +45,11 @@ Mike is the lead android engineer at Nike's digital innovation lab: s23nyc. Prio
 * [Data model as your table stakes](https://medium.com/s23nyc-tech/data-model-as-your-table-stakes-6937c95e7039)
 
 ### Brian's Talks
+
+*Upcoming*
+
+[2019 Aug 26 Droidcon NYC](https://www.nyc.droidcon.com/speaker/Brian-Plummer) - *Koin vs Dagger (service locator vs dependency injection)*
+
 
 * [2019 Apr 24 Android Makers France](https://androidmakers.fr/schedule/2019-04-24?sessionId=TGV-6847) - *Code Review* ([Video](https://www.youtube.com/watch?v=iQEZQ4AYGIg)/[Slides](https://speakerdeck.com/brianplummer/getting-the-most-out-of-code-review))
 * [2019 Feb 13 NY Kotlin meetup @Capital One Labs](https://www.meetup.com/New-York-Kotlin-Meetup/events/258684498/) - *Moshi Code Gen* ([Slides](https://speakerdeck.com/brianplummer/moshis-kotlin-codegen)) 
